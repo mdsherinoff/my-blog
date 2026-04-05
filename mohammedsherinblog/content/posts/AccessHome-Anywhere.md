@@ -1,7 +1,10 @@
 +++
-title = 'How I Access my home network from anywhere in the world'
-date = '2026-04-05T12:40:24+03:00'
+date = '2026-04-05T12:50:07+03:00'
+draft = true
+title = 'AccessHome Anywhere'
 +++
+
+# How I Access my home network from anywhere in the world
 
 First setup Tailscale, follow my short and simple guide here:
 
