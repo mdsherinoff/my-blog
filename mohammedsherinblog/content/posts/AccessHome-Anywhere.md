@@ -1,6 +1,5 @@
 +++
 date = '2026-04-05T12:50:07+03:00'
-draft = true
 title = 'AccessHome Anywhere'
 +++
 

@@ -1,6 +1,5 @@
 +++
 date = '2026-04-05T12:48:36+03:00'
-draft = true
 title = 'Access Proxmox Server Through Tailscale'
 +++
 
