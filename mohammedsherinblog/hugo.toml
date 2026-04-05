@@ -1,0 +1,4 @@
+baseURL = 'https://mdsherinoff.github.io/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme="hugo-bearblog"

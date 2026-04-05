@@ -1,0 +1,7 @@
+[submodule "mohammedsherinblog/public"]
+	path = mohammedsherinblog/public
+	url = https://github.com/mdsherinoff/mdsherinoff.github.io.git
+	branch = main
+[submodule "mohammedsherinblog/themes/hugo-bearblog"]
+	path = mohammedsherinblog/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
