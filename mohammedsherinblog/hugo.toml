@@ -1,4 +1,4 @@
 baseURL = 'https://mdsherinoff.github.io/'
 locale = 'en-us'
 title = "Puny Human's Attempt At Being a Web Landlord"
-theme="hugo-bearblog"
+theme="contrast-hugo"
