@@ -1,4 +1,7 @@
-# How I Access my Proxmox Server from Anywhere using Tailscale
++++
+title = 'How I Access my Proxmox Server from Anywhere using Tailscale'
+date = '2026-04-05T12:40:24+03:00'
++++
 
 I started by creating an Ubuntu container inside my Proxmox Environment. I usually make the container ID the same as my static IP address I have determined for this container, so as to easily navigate. Don't start your container yet.
 
