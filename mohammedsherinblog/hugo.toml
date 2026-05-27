@@ -2,3 +2,4 @@ baseURL = 'https://mdsherinoff.github.io/'
 locale = 'en-us'
 title = "Puny Human's Attempt At Being a Web Landlord"
 theme="contrast-hugo"
+logo = "/images/android-chrome-192x192.png"
