@@ -5,9 +5,7 @@ title = 'How I Access My Home Network from Anywhere in The World'
 
 First setup Tailscale, follow my short and simple guide here:
 
-```
-Link here
-```
+[How I Access My Home Network from Anywhere in The World](https://mdsherinoff.github.io/posts/accesshome-anywhere/)
 
 After you are done with that, go into your Tailscale container's console and type in:
 
